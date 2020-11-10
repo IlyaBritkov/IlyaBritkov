@@ -4,6 +4,6 @@
 <br><br>
 
 
-- 🔭 I’m currently working on courses completion
+- 🔭 I’m currently working on courses completing
 - 🌱 I’m currently learning Web Development
 
